@@ -1,5 +1,1 @@
-#include <stdio,h>
-int add(int a,int c)
-{
-    return a+c;
-}
+#define add(A, B) ((A) + (B))
